@@ -8,7 +8,7 @@ import junit.framework.TestSuite;
  * Unit test for simple App.
  */
 public class FizzBuzzTest
-    extends TestCase
+        extends TestCase
 {
     /**
      * Create the test case
@@ -34,5 +34,10 @@ public class FizzBuzzTest
     public void testApp()
     {
         assertTrue( true );
+    }
+
+    public void testFizzBuzzOne() {
+        assertEquals("1", FizzBuzz.play(1));
+        assertEquals("Fizz", FizzBuzz.play(3));
     }
 }
