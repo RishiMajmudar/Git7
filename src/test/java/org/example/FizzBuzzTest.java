@@ -39,5 +39,6 @@ public class FizzBuzzTest
     public void testFizzBuzzOne() {
         assertEquals("1", FizzBuzz.play(1));
         assertEquals("Fizz", FizzBuzz.play(3));
+        assertEquals("Buzz", FizzBuzz.play(5));
     }
 }
