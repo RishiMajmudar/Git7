@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="759ba225-bd98-45e2-b006-246f6d697493" name="Changes" comment="Initial test for FizzBuzz with input 1">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FizzBuzz.java" afterDir="false" />
+    <list default="true" id="759ba225-bd98-45e2-b006-246f6d697493" name="Changes" comment="test for FizzBuzz with input 15 which is multiple of both ‘3’ and ‘5’">
       <change beforePath="$PROJECT_DIR$/src/test/java/org/example/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/FizzBuzzTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +26,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.FizzBuzzTest.testFizzBuzzOne.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -72,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709167744254</updated>
-      <workItem from="1709167745357" duration="431000" />
+      <workItem from="1709167745357" duration="644000" />
     </task>
     <task id="LOCAL-00001" summary="Initial test for FizzBuzz with input 1">
       <option name="closed" value="true" />
@@ -82,7 +82,31 @@
       <option name="project" value="LOCAL" />
       <updated>1709168011560</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test for FizzBuzz with input 3">
+      <option name="closed" value="true" />
+      <created>1709168181075</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709168181075</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test for FizzBuzz with input 5">
+      <option name="closed" value="true" />
+      <created>1709168280543</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709168280543</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test for FizzBuzz with input 15 which is multiple of both ‘3’ and ‘5’">
+      <option name="closed" value="true" />
+      <created>1709168375344</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709168375344</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +125,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial test for FizzBuzz with input 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial test for FizzBuzz with input 1" />
+    <MESSAGE value="test for FizzBuzz with input 3" />
+    <MESSAGE value="test for FizzBuzz with input 5" />
+    <MESSAGE value="test for FizzBuzz with input 15 which is multiple of both ‘3’ and ‘5’" />
+    <option name="LAST_COMMIT_MESSAGE" value="test for FizzBuzz with input 15 which is multiple of both ‘3’ and ‘5’" />
   </component>
 </project>
