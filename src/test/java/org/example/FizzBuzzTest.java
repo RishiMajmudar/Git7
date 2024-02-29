@@ -40,5 +40,6 @@ public class FizzBuzzTest
         assertEquals("1", FizzBuzz.play(1));
         assertEquals("Fizz", FizzBuzz.play(3));
         assertEquals("Buzz", FizzBuzz.play(5));
+        assertEquals("FizzBuzz", FizzBuzz.play(15));
     }
 }
